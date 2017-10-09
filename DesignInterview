@@ -1,0 +1,68 @@
+Learnings from Product Design Interviews
+Over the past few months, I interviewed at companies like Dropbox, Google, Lyft, and plenty others. Here’s what I learned.
+To be quite honest, this was the first time I’ve gone through the holistic designer interview process. Nearly all previous roles I stumbled across through connections, working with others that led to a role, or was at small enough companies where a formal design interview was barely built out. Hopefully this will be of value to someone new to design, as well as someone who’s been around for a while, but hasn’t interviewed extensively.
+All product/UX design interviews I went through had three core parts. These parts will be the structure of what follows.
+1. Portfolio Presentation
+2. Design Challenge 
+3. Conversational Interviews
+It’s worth mentioning that in order to get to this point, your online portfolio needs to catch the eye of an employer. That’s a whole nother article, but there’s some tidbits in here that should help to shape that as well.
+1. Portfolio Presentation
+The portfolio presentation is an opportunity for the interviewer to get a sense of your design process, and how you approach a design problem. Often you’ll have enough time to show 1–2 projects. If you have enough time for more, you probably aren’t going into enough detail…
+Tell a story.
+This can’t be overstated. Presenting a project is simply saying how you got from point A to point B. Regardless of your process, this needs to be communicated. You can touch on specific problems you encountered along the way, branched directions you explored, or other specifics… Regardless of that, the story connecting each part should be communicated. Don’t stray far from the core problem(s) and solution.
+Less is more.
+Much of the process I went through over time was continuing to distill the problems I wanted to focus on on the presentation, and speak more directly to how those particular problems were solved. With any design project, you have dozens of considerations and problems that were addressed. It’s your job as the presenter to focus the conversation around the ones that really mattered (or group the problems into categories that are more holistic, but condensed).
+This is also relevant to how you structure and present the slide deck. Find ways to put less information on each slide. It wasn’t uncommon I had an entire slide with just a single question on it, or a quote from speaking to users (like, 10 words…). You’re dealing with attention spans here. Designers attention spans are no different then any other person, and as you know, a paragraph with four sentences won’t get read. Images and bullet points are your friend. Use em’.
+Present to people who know nothing about design.
+I found this to be super helpful. People who don’t have any experience in design often ask the questions that are most important, as they are questions around the story. Ultimately, you’ll be able to answer the question, ‘does this story make sense to someone who has no previous concept of it?’
+Here’s a rough template I started using for converting a design project into a presentable project:
+Company/Project Description — What the company does, and what role this design had in that company.
+Designs (before.. if there was a ‘before’)
+Designs (after)
+Your role — What you did, who you worked with, who were primary stakeholders..
+How are you defining the success of these designs? (This is often left out in many presentations, and arguably the most important part. Ideally, it’s with data)
+Insight into the problem (from data, talking to users, business objectives, etc..).
+How you went about looking at the problem — What questions did you ask? How did you go about answering them?
+Exploring variations of solutions to that problem (wireframes/prototypes)
+Chosen solution — This is the design you landed on, this is why you did it. Be able to answer this for literally every element in the design (if you can show this as a prototype or actual interactive design, even better).
+Results — How #5 matched up and if it was a success.
+2. Design Challenge
+Many of the current interview processes have either a take home design challenge, a white board design challenge, or both. I’m going to focus on the whiteboard design challenge, as much of the take-home design challenge feedback is similar to what I mentioned above in the portfolio presentation. Oh also, most of these design challenges are super vague (design a thermometer for seniors..). They do this for a reason, as they want to see how you handle ambiguity. It’s your job to give shape to the problem.
+Get clarity on what they want to see from you.
+You have an hour here at best to compress the whole design process into. Knowing which parts to focus most on, and ultimately, what the interviewer is trying to gauge in your skillset is paramount.
+With an interview at Udemy, they felt I didn’t sketch out enough design solutions. At Dropbox, I received positive feedback from the design challenge without drawing a single box. If I was interviewing, seeing design solutions would mean much less to me then the thought process, but this was my own fault as I didn’t ask for clarity on what mattered to the person interviewing me. If you’re lucky, the interviewer will guide you in the direction they want to see your thought process, but you can’t rely on that. Spend a minute or two at the start clarifying where they want to see your thought process. You can even put a timeline on the whiteboard to help enforce that focus (10 minutes problem discovery, 5 minutes problem defining, 20 minutes iteration/brainstorming, etc..)
+Start with the problem.
+There’s plenty of frameworks to think about these design challenges. That said, I felt most understated digging into the problem. This means understanding who has this problem, the context and environment of how they encounter this problem, and lastly, what the best possible outcome looks like.
+Use stories.
+Put yourself inside the user’s shoes. Give everything a made up name (the user, the company, etc..). It will help create a world you can navigate easier and faster, as well as quickly connect and empathize with the users needs. Ask the interviewer to join and shape that world with you — bring them into the conversation.
+Structure your time accordingly.
+You have an hour here at best to compress the whole design process into. Knowing which parts to focus most on, and setting a timer on how you plan to allocate that time is incredibly helpful (especially for people like me, who can easily move down rabbit holes…).
+Don’t be afraid to use less of the whiteboard…
+Writing on a whiteboard can be pretty cumbersome and slow. Once I started asking questions and typing out learnings in Evernote, and bringing some of the key points on to the whiteboard, I was able to move and think much more fluidly and quick.
+3. Conversational Interviews
+Nearly all interviews I went through have conversations with other members of the team. Product managers, designers, engineers, etc… Most questions can be distilled into three things that employers are trying to gauge:
+What does this persons design process look like?
+How does this person collaborate and communicate with other members of the team?
+Why our company?
+Speak from past experiences.
+Early in the interview process, it took me a bit of time to recall specifics of past projects and how it related to their company. After this happened a few times, I went through my past 3 jobs and tried to recall a design project that were relevant to these questions:
+What was something I struggled with in any one particular project? How did I handle it, and how would I handle it now knowing what I know…
+What was something I was proud of in a particular project?
+What was an example of how I worked with Product Managers and Developers to solve a particular problem, given a constraint..
+Ask questions that matter to you.
+Interviews are a two way street. If you don’t have good questions to ask the interviewer, this will look badly on you. It’s like going out on a date and spending all of your time trying to impress the other person… You forgot to even get a sense of if this person is right for you…
+Understand what matters to you in a role, and ask questions that go at the core of those needs. i.e. It was really important for me to work collaboratively with other designers, so I asked, ‘How much time is dedicated to design critique and feedback in any given week?’. Get specifics.
+Have a good answer to, ‘why us?’
+This is a no brainer, and something that should be. You’d be surprised though how common people are interviewing simply because they want a new job. This isn’t enough. Speak to why the mission of the company is relevant to your own motivations. Or come up with one (not ideal). Either way, make it good.
+Take your time to give an answer.
+One thing I started doing later on in interviews was writing down the question that was asked to me, and spending 20–30 seconds to brainstorm responses. If you let the person know, and they’re fine with it (in most cases they are), it allows you some time to structure your responses more intentionally and tell the story you want to.
+Do this regardless of how fast you want to answer the question. Consistency is important here, as it won’t hint at you being more prepared or unprepared for any one particular question.
+A few others pieces of insight..
+Look at interviews as a conversation for fit. I stopped using the word ‘interview’ in my own mental language. I’d book it on my calendar as, “Conversation with Lyft”. It allowed me to be calmer, and stop worrying about if they’d like me, for no other reason then to not fail.
+Rejection sucks. It happens. I’m convinced if I interviewed at any of the companies who turned me down now knowing what I now know, they would have given me an offer. Interviewing speaks to your skills as a designer, but more importantly, it speaks to your skills to present yourself. So if they say no, it doesn’t mean your not a good enough designer. Look at it as an opportunity to get feedback and improve.
+Be yourself. Conforming to the role or some idea of what your believe the company wants will only hurt you in the long run.
+Don’t take it personal. Lets face it, interviews are dumb. People are asked to make assumptions and conclusions off entirely incomplete information. The sooner you realize this, the better.
+Get feedback. It’s really really really really valuable. Sometimes this means being persistent and emailing the recruiter after you’ve been rejected. And if a company isn’t able to do that after all of the time you’ve invested in them, they aren’t worth your time (shout out to Eric Bailey, head of UX at AltSchool for giving me an hour of his time to get feedback after they said no. p.s. I think they are still looking for a Senior Product Designer).
+That’s a wrap.
+I will be starting as a Senior Product Designer for a company called Granular — an opportunity to help shape and improve how farmers can farm better and smarter (a problem we’re all connected to through the food we eat). There’s plenty of interesting, complex design problems to be solved, and a design team that will be rapidly growing over the next year. If you’re an experienced product designer interested in joining, feel free to reach out.
+Special thanks to all the people who gave me feedback, and helped me learn all of this stuff — a few in particular, Braden Kowitz, Noah Levin, and Brad Artziniega.
